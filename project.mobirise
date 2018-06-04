@@ -514,6 +514,9 @@
             },
             ".card": {
               "padding-bottom": "1.5rem"
+            },
+            "H1": {
+              "color": "#f41717"
             }
           },
           "_name": "header12",
